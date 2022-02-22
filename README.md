@@ -1,2 +1,2 @@
-# -tic-tac-toe_on_python
+# -tic-tac-toe on python
 Я сделал крестики нолики с помощью python
